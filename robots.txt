@@ -1,0 +1,29 @@
+# Robots.txt for Akoka Inc. Website
+
+# Allow all crawlers to access all content
+User-agent: *
+Allow: /
+
+# Disallow crawling of specific paths (uncomment as needed)
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /api/
+
+# Special rules for specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
+Sitemap: https://akokainc.com/sitemap.xml
+
+# Crawl-delay (optional - uncomment if needed to limit crawl rate)
+# Crawl-delay: 1
+
+# Additional notes:
+# - This configuration allows all search engines to crawl all pages
+# - Update the Sitemap URL to match your actual domain
+# - Consider adding Disallow rules for admin areas or sensitive content
+# - Monitor crawl behavior in Google Search Console
