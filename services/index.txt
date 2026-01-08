@@ -1,0 +1,265 @@
+1:"$Sreact.fragment"
+2:I[5691,["999","static/chunks/999-78430910bb89711a.js","619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-839348a8d5fc98ce.js"],"FlagsProvider"]
+3:I[1771,["999","static/chunks/999-78430910bb89711a.js","619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-839348a8d5fc98ce.js"],"Header"]
+4:I[9766,[],""]
+5:I[8924,[],""]
+7:I[5619,["999","static/chunks/999-78430910bb89711a.js","619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-839348a8d5fc98ce.js"],"Footer"]
+9:I[4431,[],"OutletBoundary"]
+b:I[5278,[],"AsyncMetadataOutlet"]
+d:I[4431,[],"ViewportBoundary"]
+f:I[4431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/219f6b89b94f6b7b.css","style"]
+0:{"P":null,"b":"Hx6dMJdqoR9gKFkVDnQY6","p":"","c":["","services",""],"i":false,"f":[[["",{"children":["services",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/219f6b89b94f6b7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-primary-600 text-white px-4 py-2 rounded-lg font-medium","children":"Skip to main content"}],["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L3",null,{}],["$","main",null,{"id":"main-content","className":"\n            flex-1\n            pt-16 lg:pt-20\n            \n          ","role":"main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L6",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]]}]}]}]]}],{"children":["services",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+6:E{"digest":"NEXT_REDIRECT;replace;/;307;"}
+13:I[9572,["999","static/chunks/999-78430910bb89711a.js","619","static/chunks/619-ba102abea3e3d0e4.js","763","static/chunks/app/services/page-c763d53004b8c878.js"],"ServicesPage"]
+14:T1906,<h1>Our Services</h1>
+<h2>Comprehensive Risk-Free Hiring Solutions</h2>
+<p>At Akoka, we understand that every company has unique hiring needs. Whether you're looking for a single engineer to join your team or need to scale an entire engineering department, we offer flexible, risk-free solutions tailored to your specific requirements.</p>
+<h2>Service Portfolio</h2>
+<h3>Contract-to-Hire (Our Flagship Service)</h3>
+<p>Our most popular offering eliminates hiring risk entirely. Engineers begin as contractors under our management, allowing you to evaluate their technical skills, work style, and cultural fit in real-world scenarios before making any long-term commitments.</p>
+<p><strong>How It Works:</strong></p>
+<ol>
+<li>We source and vet candidates based on your requirements</li>
+<li>Selected engineer starts as our contractor on your projects</li>
+<li>You work together for an agreed evaluation period (typically 3-6 months)</li>
+<li>When you're confident it's the right fit, transition to full-time employment</li>
+<li>If it's not working out, end the contract with just 2 weeks notice</li>
+</ol>
+<p><strong>Perfect For:</strong></p>
+<ul>
+<li>Companies wanting to minimize hiring risk</li>
+<li>Teams that have struggled with cultural fit in the past</li>
+<li>Projects where you want to see results before committing</li>
+<li>Growing companies that need flexibility</li>
+</ul>
+<h3>Direct Placement</h3>
+<p>For companies ready to hire immediately, we offer traditional placement services with our money-back guarantee. Our rigorous vetting process ensures you're only interviewing top-quality candidates.</p>
+<p><strong>Key Benefits:</strong></p>
+<ul>
+<li>Pre-vetted candidates save interview time</li>
+<li>Cultural fit assessment reduces turnover risk</li>
+<li>90-day replacement guarantee for peace of mind</li>
+<li>Streamlined process reduces time-to-hire</li>
+</ul>
+<h3>Team Augmentation</h3>
+<p>Scale your engineering capacity quickly with multiple contractors working in coordination. Perfect for large projects, seasonal needs, or rapid growth phases.</p>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>Multiple engineers start simultaneously</li>
+<li>Coordinated team integration</li>
+<li>Unified management and billing</li>
+<li>Flexible scaling based on project needs</li>
+</ul>
+<h3>Project-Based Solutions</h3>
+<p>Complete project teams assembled specifically for your initiative. From MVP development to feature implementations, we provide end-to-end project delivery.</p>
+<p><strong>Ideal For:</strong></p>
+<ul>
+<li>Defined project scope with clear deliverables</li>
+<li>Companies lacking specific technical expertise</li>
+<li>Time-sensitive initiatives requiring immediate scaling</li>
+<li>Pilot projects and proof-of-concepts</li>
+</ul>
+<h2>Technical Expertise</h2>
+<p>Our engineers are proficient across the entire technology spectrum:</p>
+<p><strong>Modern Web Development:</strong></p>
+<ul>
+<li>Frontend: React, Vue.js, Angular, TypeScript, modern CSS frameworks</li>
+<li>Backend: Node.js, Python, Java, Go, microservices architecture</li>
+<li>Full-stack: Complete application development from database to user interface</li>
+</ul>
+<p><strong>Mobile &#x26; Cross-Platform:</strong></p>
+<ul>
+<li>React Native for cross-platform development</li>
+<li>Native iOS and Android development</li>
+<li>Progressive Web Apps (PWAs)</li>
+</ul>
+<p><strong>Cloud &#x26; Infrastructure:</strong></p>
+<ul>
+<li>AWS, Azure, Google Cloud Platform</li>
+<li>Container orchestration with Docker and Kubernetes</li>
+<li>Infrastructure as Code with Terraform</li>
+<li>CI/CD pipeline development</li>
+</ul>
+<p><strong>Data &#x26; Analytics:</strong></p>
+<ul>
+<li>Data pipeline development with Python and Spark</li>
+<li>ETL processes and data warehousing</li>
+<li>Analytics infrastructure and reporting</li>
+</ul>
+<h2>Quality Assurance Process</h2>
+<p>Every engineer in our network has been rigorously evaluated through our comprehensive vetting process:</p>
+<ol>
+<li><strong>Technical Assessment</strong>: Hands-on coding challenges and system design exercises</li>
+<li><strong>Communication Evaluation</strong>: Assessment of collaboration and communication skills</li>
+<li><strong>Cultural Adaptability</strong>: Evaluation of fit with various company cultures</li>
+<li><strong>Reference Verification</strong>: Thorough background and reference checks</li>
+<li><strong>Continuous Monitoring</strong>: Ongoing performance tracking and feedback collection</li>
+</ol>
+<h2>Pricing Philosophy</h2>
+<p>We believe in simple, transparent pricing with no hidden fees or long-term contracts:</p>
+<ul>
+<li><strong>Contract-to-Hire</strong>: Pay only for work delivered during the contractor phase</li>
+<li><strong>Direct Placement</strong>: Fixed fee upon successful hire with replacement guarantee</li>
+<li><strong>Volume Discounts</strong>: Reduced rates for multiple simultaneous placements</li>
+<li><strong>No Lock-in</strong>: Cancel contractor arrangements with just 2 weeks notice</li>
+</ul>
+<h2>Success Metrics</h2>
+<p>We measure our success by your success:</p>
+<ul>
+<li><strong>95% Client Satisfaction Rate</strong>: Our clients consistently rate their experience as excellent</li>
+<li><strong>85% Transition Rate</strong>: Most contractors successfully transition to full-time roles</li>
+<li><strong>&#x3C; 2 Week Average</strong>: Time from initial contact to candidate presentation</li>
+<li><strong>90%+ Retention</strong>: Engineers placed through us have exceptional retention rates</li>
+</ul>
+<h2>Getting Started</h2>
+<p>Ready to experience risk-free hiring? Here's how to begin:</p>
+<ol>
+<li><strong>Initial Consultation</strong>: 30-minute call to understand your needs</li>
+<li><strong>Requirements Definition</strong>: Detailed specification of technical and cultural requirements</li>
+<li><strong>Candidate Presentation</strong>: We present 2-3 pre-qualified candidates</li>
+<li><strong>Streamlined Interviews</strong>: Efficient interview process with top candidates</li>
+<li><strong>Rapid Start</strong>: Selected engineer can start within days of decision</li>
+</ol>
+<p>Every engagement begins with a thorough understanding of your unique needs, ensuring we deliver not just qualified engineers, but the right engineers for your specific situation.</p>
+<p>Contact us today to discuss how our risk-free approach can solve your hiring challenges and accelerate your engineering team's growth.</p>
+15:T14fd,
+# Our Services
+
+## Comprehensive Risk-Free Hiring Solutions
+
+At Akoka, we understand that every company has unique hiring needs. Whether you're looking for a single engineer to join your team or need to scale an entire engineering department, we offer flexible, risk-free solutions tailored to your specific requirements.
+
+## Service Portfolio
+
+### Contract-to-Hire (Our Flagship Service)
+
+Our most popular offering eliminates hiring risk entirely. Engineers begin as contractors under our management, allowing you to evaluate their technical skills, work style, and cultural fit in real-world scenarios before making any long-term commitments.
+
+**How It Works:**
+
+1. We source and vet candidates based on your requirements
+2. Selected engineer starts as our contractor on your projects
+3. You work together for an agreed evaluation period (typically 3-6 months)
+4. When you're confident it's the right fit, transition to full-time employment
+5. If it's not working out, end the contract with just 2 weeks notice
+
+**Perfect For:**
+
+- Companies wanting to minimize hiring risk
+- Teams that have struggled with cultural fit in the past
+- Projects where you want to see results before committing
+- Growing companies that need flexibility
+
+### Direct Placement
+
+For companies ready to hire immediately, we offer traditional placement services with our money-back guarantee. Our rigorous vetting process ensures you're only interviewing top-quality candidates.
+
+**Key Benefits:**
+
+- Pre-vetted candidates save interview time
+- Cultural fit assessment reduces turnover risk
+- 90-day replacement guarantee for peace of mind
+- Streamlined process reduces time-to-hire
+
+### Team Augmentation
+
+Scale your engineering capacity quickly with multiple contractors working in coordination. Perfect for large projects, seasonal needs, or rapid growth phases.
+
+**Advantages:**
+
+- Multiple engineers start simultaneously
+- Coordinated team integration
+- Unified management and billing
+- Flexible scaling based on project needs
+
+### Project-Based Solutions
+
+Complete project teams assembled specifically for your initiative. From MVP development to feature implementations, we provide end-to-end project delivery.
+
+**Ideal For:**
+
+- Defined project scope with clear deliverables
+- Companies lacking specific technical expertise
+- Time-sensitive initiatives requiring immediate scaling
+- Pilot projects and proof-of-concepts
+
+## Technical Expertise
+
+Our engineers are proficient across the entire technology spectrum:
+
+**Modern Web Development:**
+
+- Frontend: React, Vue.js, Angular, TypeScript, modern CSS frameworks
+- Backend: Node.js, Python, Java, Go, microservices architecture
+- Full-stack: Complete application development from database to user interface
+
+**Mobile & Cross-Platform:**
+
+- React Native for cross-platform development
+- Native iOS and Android development
+- Progressive Web Apps (PWAs)
+
+**Cloud & Infrastructure:**
+
+- AWS, Azure, Google Cloud Platform
+- Container orchestration with Docker and Kubernetes
+- Infrastructure as Code with Terraform
+- CI/CD pipeline development
+
+**Data & Analytics:**
+
+- Data pipeline development with Python and Spark
+- ETL processes and data warehousing
+- Analytics infrastructure and reporting
+
+## Quality Assurance Process
+
+Every engineer in our network has been rigorously evaluated through our comprehensive vetting process:
+
+1. **Technical Assessment**: Hands-on coding challenges and system design exercises
+2. **Communication Evaluation**: Assessment of collaboration and communication skills
+3. **Cultural Adaptability**: Evaluation of fit with various company cultures
+4. **Reference Verification**: Thorough background and reference checks
+5. **Continuous Monitoring**: Ongoing performance tracking and feedback collection
+
+## Pricing Philosophy
+
+We believe in simple, transparent pricing with no hidden fees or long-term contracts:
+
+- **Contract-to-Hire**: Pay only for work delivered during the contractor phase
+- **Direct Placement**: Fixed fee upon successful hire with replacement guarantee
+- **Volume Discounts**: Reduced rates for multiple simultaneous placements
+- **No Lock-in**: Cancel contractor arrangements with just 2 weeks notice
+
+## Success Metrics
+
+We measure our success by your success:
+
+- **95% Client Satisfaction Rate**: Our clients consistently rate their experience as excellent
+- **85% Transition Rate**: Most contractors successfully transition to full-time roles
+- **< 2 Week Average**: Time from initial contact to candidate presentation
+- **90%+ Retention**: Engineers placed through us have exceptional retention rates
+
+## Getting Started
+
+Ready to experience risk-free hiring? Here's how to begin:
+
+1. **Initial Consultation**: 30-minute call to understand your needs
+2. **Requirements Definition**: Detailed specification of technical and cultural requirements
+3. **Candidate Presentation**: We present 2-3 pre-qualified candidates
+4. **Streamlined Interviews**: Efficient interview process with top candidates
+5. **Rapid Start**: Selected engineer can start within days of decision
+
+Every engagement begins with a thorough understanding of your unique needs, ensuring we deliver not just qualified engineers, but the right engineers for your specific situation.
+
+Contact us today to discuss how our risk-free approach can solve your hiring challenges and accelerate your engineering team's growth.
+8:["$","$L13",null,{"content":{"title":"Our Services","description":"Comprehensive risk-free software engineer placement services including contract-to-hire, direct placement, team augmentation, and ongoing support.","seo":{"title":"Akoka Services - Risk-Free Software Engineer Placement","description":"Explore our comprehensive software engineer placement services: contract-to-hire, direct placement, team augmentation, and project-based solutions.","keywords":["software engineer placement","contract to hire","team augmentation","tech recruitment services","risk-free hiring"]},"hero":{"title":"Comprehensive Placement Services","subtitle":"From individual placements to entire team builds, we offer flexible solutions tailored to your unique hiring needs."},"sections":{"services":{"title":"Our Service Offerings","subtitle":"Flexible solutions for every hiring scenario","services":[{"title":"Contract to Hire","description":"Our flagship service. Engineers start as contractors, transition to full-time when you're confident it's the right fit.","features":["Zero upfront costs","Full management during contractor phase","Seamless transition process","No long-term commitment required"],"icon":"user-plus","popular":true},{"title":"Direct Placement","description":"For companies ready to hire immediately. We'll find the perfect candidate with our guarantee.","features":["Comprehensive candidate vetting","Cultural fit assessment","30-day replacement guarantee","Streamlined interview process"],"icon":"target"},{"title":"Team Augmentation","description":"Scale your engineering team quickly with multiple contractors managed under one program.","features":["Multiple engineers simultaneously","Coordinated team integration","Flexible scaling up or down","Unified management approach"],"icon":"users"}]},"specializations":{"title":"Technical Specializations","subtitle":"Expert engineers across all major technology stacks","specializations":[{"title":"Full-Stack Development","technologies":["React","Node.js","Python","TypeScript","Next.js"],"description":"End-to-end web application development with modern frameworks"},{"title":"Backend Engineering","technologies":["Python","Java","Go","Node.js","Microservices"],"description":"Scalable server-side solutions and API development"},{"title":"Frontend Development","technologies":["React","Vue.js","Angular","TypeScript","Tailwind CSS"],"description":"Modern, responsive user interfaces and web applications"},{"title":"Mobile Development","technologies":["React Native","Flutter","iOS","Android"],"description":"Cross-platform and native mobile application development"},{"title":"DevOps & Cloud","technologies":["AWS","Docker","Kubernetes","CI/CD","Terraform"],"description":"Infrastructure automation and cloud deployment solutions"},{"title":"Data Engineering","technologies":["Python","SQL","Spark","Airflow","ETL"],"description":"Data pipeline development and analytics infrastructure"}]},"process":{"title":"Our Process","subtitle":"How we ensure exceptional results for every placement","steps":[{"title":"Requirements Discovery","description":"Deep dive into your technical needs, team culture, and project requirements to ensure perfect alignment.","duration":"1-2 days"},{"title":"Candidate Sourcing","description":"Leverage our network of vetted engineers to identify candidates that match your specific criteria.","duration":"3-5 days"},{"title":"Rigorous Vetting","description":"Comprehensive technical assessments, cultural fit evaluation, and reference checks.","duration":"2-3 days"},{"title":"Client Interviews","description":"Streamlined interview process with pre-qualified candidates to save your team's time.","duration":"1-2 days"},{"title":"Onboarding & Integration","description":"Smooth integration with your team, including setup, introductions, and initial project assignment.","duration":"1 day"},{"title":"Ongoing Support","description":"Continuous monitoring, feedback collection, and support throughout the engagement.","duration":"Ongoing"}]},"pricing":{"title":"Simple, Transparent Pricing","subtitle":"No hidden fees, no long-term contracts","models":[{"title":"Contract-to-Hire","description":"Pay only during the contractor phase","features":["Hourly rate during contractor period","No upfront placement fees","Transparent transition costs","Cancel anytime with 2 weeks notice"],"ctaText":"Contact Us"},{"title":"Direct Placement","description":"One-time placement fee upon successful hire","features":["Fixed placement fee","30-day replacement guarantee","No ongoing costs","Payment upon start date"],"ctaText":"Get Quote"},{"title":"Team Augmentation","description":"Volume discounts for multiple placements","features":["Discounted rates for multiple engineers","Flexible team composition","Unified billing and management","Scalable pricing structure"],"ctaText":"Discuss Needs"}]},"support":{"title":"Ongoing Support & Success","subtitle":"We're invested in long-term success, not just placement","features":[{"title":"Dedicated Account Management","description":"Your dedicated account manager ensures smooth operations and addresses any concerns promptly.","icon":"user-check"},{"title":"Performance Monitoring","description":"Regular check-ins with both client and engineer to ensure mutual satisfaction and address issues early.","icon":"activity"},{"title":"Professional Development","description":"Continued learning opportunities for our engineers to stay current with technology trends.","icon":"book-open"},{"title":"Transition Support","description":"Full support during the contract-to-hire transition, including paperwork and benefit transfers.","icon":"arrow-right-circle"}]}},"lastUpdated":"$undefined","effectiveDate":"$undefined","content":"$14","slug":"services","rawContent":"$15"}}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+16:I[622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"Akoka Services - Risk-Free Software Engineer Placement | Akoka - Risk-free Software Engineer Placement"}],["$","meta","1",{"name":"description","content":"Explore our comprehensive software engineer placement services: contract-to-hire, direct placement, team augmentation, and project-based solutions."}],["$","meta","2",{"name":"author","content":"Akoka Inc."}],["$","meta","3",{"name":"keywords","content":"software engineer placement,contract to hire,team augmentation,tech recruitment services,risk-free hiring"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Akoka - Risk-free Software Engineer Placement"}],["$","meta","6",{"property":"og:description","content":"Access the world's best software engineers, risk-free."}],["$","meta","7",{"property":"og:url","content":"https://akokainc.com/"}],["$","meta","8",{"property":"og:site_name","content":"Akoka"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Akoka - Risk-free Software Engineer Placement"}],["$","meta","13",{"name":"twitter:description","content":"Access the world's best software engineers, risk-free."}],["$","link","14",{"rel":"icon","href":"/favicon.svg"}],["$","$L16","15",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"

@@ -1,0 +1,115 @@
+1:"$Sreact.fragment"
+2:I[5691,["999","static/chunks/999-78430910bb89711a.js","619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-839348a8d5fc98ce.js"],"FlagsProvider"]
+3:I[1771,["999","static/chunks/999-78430910bb89711a.js","619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-839348a8d5fc98ce.js"],"Header"]
+4:I[9766,[],""]
+5:I[8924,[],""]
+7:I[5619,["999","static/chunks/999-78430910bb89711a.js","619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-839348a8d5fc98ce.js"],"Footer"]
+9:I[4431,[],"OutletBoundary"]
+b:I[5278,[],"AsyncMetadataOutlet"]
+d:I[4431,[],"ViewportBoundary"]
+f:I[4431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/219f6b89b94f6b7b.css","style"]
+0:{"P":null,"b":"Hx6dMJdqoR9gKFkVDnQY6","p":"","c":["","about",""],"i":false,"f":[[["",{"children":["about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/219f6b89b94f6b7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-primary-600 text-white px-4 py-2 rounded-lg font-medium","children":"Skip to main content"}],["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L3",null,{}],["$","main",null,{"id":"main-content","className":"\n            flex-1\n            pt-16 lg:pt-20\n            \n          ","role":"main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L6",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]]}]}]}]]}],{"children":["about",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+6:E{"digest":"NEXT_REDIRECT;replace;/;307;"}
+13:I[6368,["999","static/chunks/999-78430910bb89711a.js","619","static/chunks/619-ba102abea3e3d0e4.js","757","static/chunks/757-dcf76349dc197ea0.js","220","static/chunks/app/about/page-82f29eaf317585e7.js"],"AboutPage"]
+14:T10e7,<h1>About Akoka</h1>
+<h2>Transforming How Companies Hire Software Engineers</h2>
+<p>At Akoka, we're on a mission to revolutionize the way companies find and hire exceptional software engineering talent. We believe that the traditional hiring process is fundamentally broken - too expensive, too risky, and too slow for today's fast-moving technology landscape.</p>
+<h2>The Problem We Solve</h2>
+<p>Traditional tech hiring forces companies to make expensive bets based on limited information. After months of searching, interviewing, and negotiating, companies often discover that their new hire isn't the right fit - leading to costly turnover, team disruption, and lost productivity.</p>
+<p>Meanwhile, exceptional coding bootcamp graduates - motivated career changers with fresh skills and diverse perspectives - often struggle to break into the tech industry due to biases against non-traditional educational backgrounds.</p>
+<h2>Our Innovative Solution</h2>
+<p>We bridge this gap by creating a risk-free pathway for companies to discover exceptional talent. Our carefully vetted software engineers start as contractors under our management, allowing companies to evaluate their skills, work style, and cultural fit in real-world scenarios before making any long-term commitments.</p>
+<p>When both parties are confident it's the right match, we facilitate a seamless transition to full-time employment. If it's not working out, there's no long-term obligation - we handle everything.</p>
+<h2>Why We Focus on Coding Bootcamp Graduates</h2>
+<p>Coding bootcamp graduates represent some of the most motivated and skilled developers in the market. They've made a deliberate decision to change careers, invested significant time and resources in intensive training, and are eager to prove themselves in their new field.</p>
+<p>These developers bring:</p>
+<ul>
+<li><strong>Modern Technical Skills</strong>: Training in the latest frameworks, tools, and industry best practices</li>
+<li><strong>Problem-Solving Mindset</strong>: Experience tackling complex challenges under pressure</li>
+<li><strong>Diverse Perspectives</strong>: Unique backgrounds that drive innovation and creativity</li>
+<li><strong>High Motivation</strong>: The drive that comes from pursuing a passion and making a major life change</li>
+<li><strong>Adaptability</strong>: Proven ability to learn quickly and adapt to new environments</li>
+</ul>
+<h2>Our Rigorous Vetting Process</h2>
+<p>Not every coding bootcamp graduate makes it into our network. We have a comprehensive evaluation process that assesses:</p>
+<ul>
+<li><strong>Technical Proficiency</strong>: Hands-on coding assessments and real-world problem solving</li>
+<li><strong>Communication Skills</strong>: Ability to collaborate effectively with teams and stakeholders</li>
+<li><strong>Cultural Adaptability</strong>: Fit with various company cultures and working styles</li>
+<li><strong>Growth Potential</strong>: Capacity for continuous learning and professional development</li>
+<li><strong>Work Ethic</strong>: Demonstrated commitment to quality and meeting deadlines</li>
+</ul>
+<h2>Our Commitment to Success</h2>
+<p>We don't just place engineers - we invest in their success. Our team provides ongoing support, mentorship, and professional development opportunities to ensure that every placement is a win-win for both the engineer and the client company.</p>
+<p>We measure our success not just by successful placements, but by the long-term career growth of our engineers and the sustained success of our client relationships.</p>
+<h2>The Future of Hiring</h2>
+<p>We envision a world where hiring exceptional software engineers is as simple as trying before you buy. Where companies can access top talent without risk, and where motivated developers can demonstrate their capabilities in real-world environments.</p>
+<p>By eliminating the traditional barriers and risks in tech hiring, we're creating opportunities for exceptional engineers to launch successful careers while helping innovative companies build world-class engineering teams.</p>
+<h2>Ready to Experience Risk-Free Hiring?</h2>
+<p>Whether you're a company looking for exceptional talent or a software engineer ready to take your career to the next level, we'd love to hear from you. Let's build the future of work together.</p>
+15:Tf8f,
+# About Akoka
+
+## Transforming How Companies Hire Software Engineers
+
+At Akoka, we're on a mission to revolutionize the way companies find and hire exceptional software engineering talent. We believe that the traditional hiring process is fundamentally broken - too expensive, too risky, and too slow for today's fast-moving technology landscape.
+
+## The Problem We Solve
+
+Traditional tech hiring forces companies to make expensive bets based on limited information. After months of searching, interviewing, and negotiating, companies often discover that their new hire isn't the right fit - leading to costly turnover, team disruption, and lost productivity.
+
+Meanwhile, exceptional coding bootcamp graduates - motivated career changers with fresh skills and diverse perspectives - often struggle to break into the tech industry due to biases against non-traditional educational backgrounds.
+
+## Our Innovative Solution
+
+We bridge this gap by creating a risk-free pathway for companies to discover exceptional talent. Our carefully vetted software engineers start as contractors under our management, allowing companies to evaluate their skills, work style, and cultural fit in real-world scenarios before making any long-term commitments.
+
+When both parties are confident it's the right match, we facilitate a seamless transition to full-time employment. If it's not working out, there's no long-term obligation - we handle everything.
+
+## Why We Focus on Coding Bootcamp Graduates
+
+Coding bootcamp graduates represent some of the most motivated and skilled developers in the market. They've made a deliberate decision to change careers, invested significant time and resources in intensive training, and are eager to prove themselves in their new field.
+
+These developers bring:
+
+- **Modern Technical Skills**: Training in the latest frameworks, tools, and industry best practices
+- **Problem-Solving Mindset**: Experience tackling complex challenges under pressure
+- **Diverse Perspectives**: Unique backgrounds that drive innovation and creativity
+- **High Motivation**: The drive that comes from pursuing a passion and making a major life change
+- **Adaptability**: Proven ability to learn quickly and adapt to new environments
+
+## Our Rigorous Vetting Process
+
+Not every coding bootcamp graduate makes it into our network. We have a comprehensive evaluation process that assesses:
+
+- **Technical Proficiency**: Hands-on coding assessments and real-world problem solving
+- **Communication Skills**: Ability to collaborate effectively with teams and stakeholders
+- **Cultural Adaptability**: Fit with various company cultures and working styles
+- **Growth Potential**: Capacity for continuous learning and professional development
+- **Work Ethic**: Demonstrated commitment to quality and meeting deadlines
+
+## Our Commitment to Success
+
+We don't just place engineers - we invest in their success. Our team provides ongoing support, mentorship, and professional development opportunities to ensure that every placement is a win-win for both the engineer and the client company.
+
+We measure our success not just by successful placements, but by the long-term career growth of our engineers and the sustained success of our client relationships.
+
+## The Future of Hiring
+
+We envision a world where hiring exceptional software engineers is as simple as trying before you buy. Where companies can access top talent without risk, and where motivated developers can demonstrate their capabilities in real-world environments.
+
+By eliminating the traditional barriers and risks in tech hiring, we're creating opportunities for exceptional engineers to launch successful careers while helping innovative companies build world-class engineering teams.
+
+## Ready to Experience Risk-Free Hiring?
+
+Whether you're a company looking for exceptional talent or a software engineer ready to take your career to the next level, we'd love to hear from you. Let's build the future of work together.
+8:["$","$L13",null,{"content":{"title":"About Akoka","description":"Learn about our mission to revolutionize tech hiring by connecting exceptional coding bootcamp graduates with forward-thinking companies through risk-free placements.","seo":{"title":"About Akoka - Revolutionizing Tech Hiring","description":"Discover how Akoka is transforming software engineer recruitment by eliminating hiring risk and connecting top coding bootcamp talent with innovative companies.","keywords":["about akoka","tech hiring company","coding bootcamp placement","risk-free recruitment","software engineer staffing"]},"hero":{"title":"Revolutionizing Tech Hiring","subtitle":"We believe exceptional software engineers shouldn't be a gamble. Our mission is to connect top coding bootcamp talent with innovative companies through risk-free placements."},"sections":{"mission":{"title":"About Us","content":[{"line":"We are founded by experienced tech leaders and industry veterans with more than 20 years of experience who saw the untapped potential in coding bootcamp graduates and the pain companies face with traditional hiring."},{"line":"Our leadership has experience working in start ups, and in the corporate world, in Silicon Valley, and in Silcon Alley. Our experiences span working as Software Engineers, Business Analysts, and Project Managers in teams collaborating across multiple continents."},{"line":"We bring our experience to bridge the gap between outstanding talent and innovative companies through a risk-free, human-centered approach. To eliminate the risk and inefficiency in tech hiring while creating opportunities for exceptional coding bootcamp graduates with a few years of experience in the industry to launch successful global careers. We believe exceptional software engineers are the foundation of transformative technology."}]},"story":{"title":"Our Story","content":"Founded by experienced tech leaders who saw the untapped potential in coding bootcamp graduates and the pain companies face with traditional hiring."},"values":{"title":"Our Values","values":[{"title":"Quality First","description":"We rigorously vet every engineer to ensure they meet our high standards for technical skills and cultural fit.","icon":"award"},{"title":"Risk-Free Promise","description":"Our clients never pay for work that doesn't deliver value. If it's not working, we make it right.","icon":"shield"},{"title":"Growth Mindset","description":"We invest in our engineers' continued growth and support their transition to full-time roles.","icon":"trending-up"},{"title":"Transparency","description":"Clear communication, honest feedback, and transparent processes in everything we do.","icon":"eye"}]},"team":{"title":"Meet Our Team","description":"Experienced professionals with deep expertise in technology, recruitment, and talent development."},"stats":{"title":"Our Impact","stats":[{"number":"95%","label":"Client Satisfaction Rate","description":"Of our clients rate their experience as excellent"},{"number":"85%","label":"Transition Rate","description":"Of contractors successfully transition to full-time roles"},{"number":"500+","label":"Engineers Placed","description":"Talented developers connected with great companies"},{"number":"50+","label":"Partner Companies","description":"Forward-thinking organizations trust us with their hiring"}]},"testimonials":{"title":"What Our Clients Say","testimonials":[{"quote":"Akoka delivered exactly what we needed - talented developers who hit the ground running. The transition to full-time was seamless.","author":"Sarah Chen","role":"CTO, TechStart Inc.","company":"TechStart Inc."},{"quote":"The quality of talent from Akoka is exceptional. We've hired three engineers through them and all have become core team members.","author":"Michael Rodriguez","role":"Engineering Manager","company":"Growth Labs"},{"quote":"No risk, high reward. That's exactly what we got with Akoka. Best hiring decision we've made.","author":"Jennifer Kim","role":"VP of Engineering","company":"DataFlow Systems"}]}},"lastUpdated":"$undefined","effectiveDate":"$undefined","content":"$14","slug":"about","rawContent":"$15"}}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+16:I[622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"About Akoka - Revolutionizing Tech Hiring | Akoka - Risk-free Software Engineer Placement"}],["$","meta","1",{"name":"description","content":"Discover how Akoka is transforming software engineer recruitment by eliminating hiring risk and connecting top coding bootcamp talent with innovative companies."}],["$","meta","2",{"name":"author","content":"Akoka Inc."}],["$","meta","3",{"name":"keywords","content":"about akoka,tech hiring company,coding bootcamp placement,risk-free recruitment,software engineer staffing"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Akoka - Risk-free Software Engineer Placement"}],["$","meta","6",{"property":"og:description","content":"Access the world's best software engineers, risk-free."}],["$","meta","7",{"property":"og:url","content":"https://akokainc.com/"}],["$","meta","8",{"property":"og:site_name","content":"Akoka"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Akoka - Risk-free Software Engineer Placement"}],["$","meta","13",{"name":"twitter:description","content":"Access the world's best software engineers, risk-free."}],["$","link","14",{"rel":"icon","href":"/favicon.svg"}],["$","$L16","15",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
